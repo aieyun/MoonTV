@@ -40,5 +40,5 @@ jobs:
           project: "tiannawilli-moontv-48"
           entrypoint: "jsr:@deno/nextjs-start/v15"
           root: "."
-          include: .next, public
+          
           
